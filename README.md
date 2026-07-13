@@ -1,2 +1,2 @@
 # Mini-Dashboard 
-just mini
+Hey!
