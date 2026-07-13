@@ -1,1 +1,2 @@
-# Mini-Dashboard
+# Mini-Dashboard 
+just mini
